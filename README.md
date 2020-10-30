@@ -1,4 +1,13 @@
-### Hi there 👋
+![ale_banner](https://user-images.githubusercontent.com/2840012/97757022-b104b300-1ada-11eb-8ff7-65f2fb62d7cf.png)
+
+## Hi there 👋
+### I'm Ale Zuvic
+
+- 🌱  My current goal: start 2021 with a fulltime job as developer.
+- 📖  I’m currently learning React, NodeJS
+- 📫  How to reach me:
+     - 📧  alzuvic@gmail.com
+     - 📞  +54 9 351 7736592
 
 <!--
 **alezvic/alezvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
