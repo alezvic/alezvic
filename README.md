@@ -1,4 +1,4 @@
-![ale_banner](https://user-images.githubusercontent.com/2840012/97757022-b104b300-1ada-11eb-8ff7-65f2fb62d7cf.png)
+![ale_banner](https://user-images.githubusercontent.com/2840012/97758115-f924d500-1adc-11eb-89fa-722473c89007.png)
 
 ## Hi there 👋
 ### I'm Ale Zuvic
